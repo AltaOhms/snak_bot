@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="sortablelist">Sortable ListView</string>
+	<string name="app_name">MobileAnarchy Widgets</string>
+
+	<!-- Main menu resources  -->
+	<string name="select_widget">Select Widget</string>
+	<string name="threasholdedittext">ThreasholdEditText</string>
+	<string name="dockpanel_horizontal">DockPanel - Vertical</string>
+	<string name="dockpanel_vertical">DockPanel - Horizontal</string>
+	<string name="joystick">Soft-Joystick</string>
+	<string name="dualjoystick">Dual Soft-Joystick</string>
+	<string name="tileslayout">TilesLayout</string>
+	<string name="draganddrop">Drag and Drop</string>
+
+	<!-- ThreasholdEditText strings -->
+	<string name="ThresholdTextChangedEventValue">&quot;ThresholdTextChanged&quot; event value</string>
+	<string name="StandardTextChangedEvent">"TextChanged" event value</string>
+	<string name="UserInput">User Input</string>
+
+</resources>
